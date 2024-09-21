@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Dalian",大连文体
-http://live.dltv.cn/hxT7Fc3/500/43omoT0.m3u8
+http://live.dltv.cn/hxT7Fc3/500/lomjT0F.m3u8
 #EXTINF:-1 group-title="Dalian",大连新闻综合
-http://live.dltv.cn/tcb3IB5/500/l37tob0.m3u8
+http://live.dltv.cn/tcb3IB5/500/47tjb0I.m3u8
 #EXTINF:-1 group-title="Dalian",大连生活
-http://live.dltv.cn/JzcFkF4/500/o34Joc0.m3u8
+http://live.dltv.cn/JzcFkF4/500/14Jjc0k.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV-2 财经
