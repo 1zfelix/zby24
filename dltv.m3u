@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Dalian",大连文体
-http://live.dltv.cn/hxT7Fc3/500/62omtT0.m3u8
+http://live.dltv.cn/hxT7Fc3/500/o3ohxg7.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Dalian",大连新闻综合
-http://live.dltv.cn/tcb3IB5/500/n279tb0.m3u8
+http://live.dltv.cn/tcb3IB5/500/547hcg3.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Dalian",大连生活
-http://live.dltv.cn/JzcFkF4/500/q24Jtc0.m3u8
+http://live.dltv.cn/JzcFkF4/500/844hzgF.m3u8
 #EXTINF:-1 tvg-name="日本新闻" tvg-logo="" group-title="Dalian",日本新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
