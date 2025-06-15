@@ -11,3 +11,5 @@ node_modules/
 dist/
 __pycache__/
 .vscode/
+
+m3u/
