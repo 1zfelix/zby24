@@ -13,5 +13,7 @@ http://vthanh.utako.moe/Nippon_TV/index.m3u8
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Dalian",大连文体
 http://live.dltv.cn/hxT7Fc3/500/w1ohxs7.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Dalian",大连新闻综合
+http://live.dltv.cn/tcb3IB5/500/d27hcs3.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Dalian",大连生活
 http://live.dltv.cn/JzcFkF4/500/g24hzsF.m3u8
