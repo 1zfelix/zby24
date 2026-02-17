@@ -11,6 +11,12 @@ http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 http://vthanh.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 tvg-id="",[搞笑艺人不要输] Gaki no Tsukai (English Subs) (720p)
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Dalian",大连文体
+http://live.dltv.cn/hxT7Fc3/500/c1omjT0.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Dalian",大连新闻综合
+http://live.dltv.cn/tcb3IB5/500/t17tjb0.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Dalian",大连生活
+http://live.dltv.cn/JzcFkF4/500/w14Jjc0.m3u8
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai3.png" group-title="港澳台频道",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-name="CH8" tvg-logo="https://live.fanmingming.cn/tv/CH8.png" group-title="港澳台频道",CH8
