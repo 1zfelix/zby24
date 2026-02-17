@@ -1,31 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="JOAKDTV.jp",[NHK综合·东京] NHK G (Tokyo) (540p) [Not 24/7]
-https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp",[NHK国际高级频道] NHK World Premium (480p)
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="日本频道",[NHK国际高级频道] NHK World Premium (480p)
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",[NHK国际频道] NHK World-Japan (720p)
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1 tvg-id="JOTXDTV.jp",[东京电视台] TV Tokyo (1080p)
-http://vthanh.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 tvg-id="JOAXDTV.jp@HD",[日本电视台] Nippon TV (720p)
-http://vthanh.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 tvg-id="",[搞笑艺人不要输] Gaki no Tsukai (English Subs) (720p)
-https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Dalian",大连文体
+#EXTINF:-1 tvg-id="NHK-BS" group-title="日本频道",[NHK-BS] NHK-BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="大连",大连文体
 http://live.dltv.cn/hxT7Fc3/500/c1omjT0.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Dalian",大连新闻综合
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="大连",大连新闻综合
 http://live.dltv.cn/tcb3IB5/500/t17tjb0.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Dalian",大连生活
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="大连",大连生活
 http://live.dltv.cn/JzcFkF4/500/w14Jjc0.m3u8
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai3.png" group-title="港澳台频道",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 tvg-name="CH8" tvg-logo="https://live.fanmingming.cn/tv/CH8.png" group-title="港澳台频道",CH8
+#EXTINF:-1 tvg-name="CH8" tvg-logo="https://live.fanmingming.cn/tv/CH8.png" group-title="新加坡频道",新传媒8频道中文
 https://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 tvg-name="CHU" tvg-logo="https://live.fanmingming.cn/tv/CHU.png" group-title="港澳台频道",CHU
+#EXTINF:-1 tvg-name="CHU" tvg-logo="https://live.fanmingming.cn/tv/CHU.png" group-title="新加坡频道",新传媒U频道
 https://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 tvg-name="CH5" tvg-logo="https://live.fanmingming.cn/tv/CH5.png" group-title="港澳台频道",CH5
+#EXTINF:-1 tvg-name="CH5" tvg-logo="https://live.fanmingming.cn/tv/CH5.png" group-title="新加坡频道",新传媒5频道
 https://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" group-title="国际频道",CNA
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" group-title="新加坡频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文高清
 http://cdn6.163189.xyz/163189/fhzw
