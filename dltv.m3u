@@ -7,8 +7,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 http://live.dltv.cn/hxT7Fc3/500/h1omcT0.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="大连",大连新闻综合
 http://live.dltv.cn/tcb3IB5/500/y17tcb0.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="大连",大连生活
-http://live.dltv.cn/JzcFkF4/500/124Jcp0.m3u8
 #EXTINF:-1 tvg-name="CH8" tvg-logo="https://live.fanmingming.cn/tv/CH8.png" group-title="新加坡频道",新传媒8频道中文
 https://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 tvg-name="CHU" tvg-logo="https://live.fanmingming.cn/tv/CHU.png" group-title="新加坡频道",新传媒U频道
